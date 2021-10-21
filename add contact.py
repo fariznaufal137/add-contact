@@ -40,4 +40,3 @@ for n in range (y):
 
 print(table.draw())
 print("Terima Kasih")
-
