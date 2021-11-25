@@ -11,7 +11,7 @@ Original file is located at
 from texttable import Texttable
 import sys
 print("\nSELAMAT DATANG DI PENAMBAHAN KONTAK\n")
-namaanda = input("Masukan nama anda: ")
+namaanda = input("Masukan Nama anda: ")
 print("Apakah Anda ingin menambahkan kontak ?\n")
 print("1. Ya \t 2. Tidak")
 
